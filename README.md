@@ -1,1 +1,0 @@
-# fullstackopen-pt0
